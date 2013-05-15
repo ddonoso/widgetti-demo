@@ -1,0 +1,10 @@
+*.class
+.DS_Store
+.svn/
+/build
+timestamp
+version.xml
+.classpath
+.project
+.settings/
+bin/
